@@ -33,7 +33,7 @@
 
 % Adjust the margins to fit each page on half of an A4 page
 \geometry{
-    paper=a4paper, % Change to letterpaper for US letter
+    paper=letterpaper, % Change to letterpaper for US letter
     inner=2.5cm, % Inner margin
     outer=1.5cm, % Outer margin
     top=2cm, % Top margin
