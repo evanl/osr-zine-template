@@ -1,3 +1,7 @@
+# FORK OF PROJECT - All material below hyperlink is unchanged
+
+[https://github.com/wintermute-cell/osr-zine-template](https://github.com/wintermute-cell/osr-zine-template)
+
 # Minimal RPG Template (LaTeX)
 
 This repository contains a LaTeX template, mainly intended for for creating Old
